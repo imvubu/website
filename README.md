@@ -2,10 +2,15 @@ Kadoma
 
 Building Services and Faciltes Management 
 
+
+
 Electrical
+
 Heat Pumps
+
 Airconditioning
 Water Services
+
 
 
 dean@deanforbes.com
@@ -13,4 +18,7 @@ dean@deanforbes.com
 
 
 
-Kadoma LTD Companyt Reg 
+Kadoma LTD Company
+Company number 13245043
+
+
